@@ -35,7 +35,7 @@ def main() :
     if divisor_count > y:
         return ("anti-prime")
     else:
-        return ("not antiprime") 
+        return ("not anti-prime") 
 
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
